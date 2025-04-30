@@ -1,5 +1,3 @@
-# CNN_WASTE_SEGREGATION
-CNN_WASTE_SEGREGATION
 # Waste Segregation for Improving Waste Management
 
 ## Objective
